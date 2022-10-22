@@ -10,4 +10,4 @@ spring:
 
 env:
   params:
-    bankName: ICICI Bank
+    bankName: 'ICICI Bank'

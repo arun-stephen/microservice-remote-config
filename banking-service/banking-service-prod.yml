@@ -10,4 +10,4 @@ spring:
 
 env:
   params:
-    bankName: State Bank of India
+    bankName: 'State Bank of India'

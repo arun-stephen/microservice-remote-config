@@ -10,4 +10,4 @@ spring:
 
 env:
   params:
-    bankName: HDFC Bank
+    bankName: 'HDFC Bank'
