@@ -10,4 +10,4 @@ spring:
 
 app:
   params:
-    bankName: 'HDFC Bank'
+    bankName: 'State Bank of India'
